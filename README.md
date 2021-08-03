@@ -1,5 +1,5 @@
 # AMII-Numerical-Methods
-Project made for Math Analysis class at ISEC. Project made using Matlab focussing in different topics such as: initial value problem, 1st and 2nd order differential equations, derivation and integration.
+Project carried out Math Analysis class at ISEC. Project made using Matlab focussing in different topics such as: initial value problem, 1st and 2nd order differential equations, derivation and integration.
 
 Atividade01 - Numerical methods for initial value problem and 1st order differential equations.
 
